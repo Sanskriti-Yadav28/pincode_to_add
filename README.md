@@ -1,13 +1,19 @@
-# 📍 Pincode Finder
-A simple web app that fetches address details from a 6-digit Indian Pincode using the India Post API.
+📍 Pincode Finder
+
+A simple and responsive web app that fetches address details from a 6-digit Indian Pincode using the **India Post API**.
+
+---
 
 ## 🚀 Features
-- Search any 6-digit Indian PIN
-- Displays Post Office, District, State, Branch Type, Delivery info
-- Responsive & mobile-friendly
+- 🔎 Search any valid 6-digit Indian PIN code  
+- 📌 Displays **Post Office, District, State, Branch Type, Delivery info**  
+- 📱 Fully responsive & mobile-friendly design  
+- ⚡ Fast and easy-to-use  
 
-## 🔗 Live Demo
-[Click Here](https://your-username.github.io/your-repo-name/)
+---
 
-## 🖼️ Screenshot
-![Screenshot](screenshot.png)
+## 🛠️ Tech Stack
+- **HTML5** – Structure  
+- **CSS3** – Styling & responsiveness  
+- **JavaScript (Fetch API)** – API call & dynamic rendering  
+- **India Post API** – Data source  
